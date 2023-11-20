@@ -16,7 +16,7 @@ KEY = "o1zrmHAF"
 #CM:移动 CU:联通 CT:电信  AB:境外 DEF:默认
 #修改需要更改的dnspod域名和子域名
 DOMAINS = {
-    "huai.us": {"cdn": ["CM","CU","CT"]}
+    "huai.pp.ua": {"@": ["CM","CU","CT"]}
 }
 
 #解析生效条数 免费的DNSPod相同线路最多支持2条解析
